@@ -38,8 +38,12 @@ def overview_page():
 
     return html.Div([
         html.Div([
-            html.H4("Avg. Search Interest", style={'color': '#B4B4C7'}),
-            html.H2(f"{avg_interest}", style={'color': '#F97316'})
-        ], style={'backgroundColor': '#1C1B29', 'padding': '20px', 'borderRadius': '8px', 'width': '200px', 'marginBottom': '20px'}),
+           
+            html.Div("OVERVIEW", style={
+    'display': 'inline-block', 'backgroundColor': '#E85D9C', 'color': 'white',
+    'fontFamily': 'Anton, sans-serif', 'fontSize': '26px', 'padding': '8px 20px',
+    'transform': 'rotate(-2deg)', 'marginBottom': '20px'
+})
+        ], style={ 'padding': '20px', 'borderRadius': '8px', 'width': '200px', 'marginBottom': '20px'}),
         dcc.Graph(figure=fig)
     ])

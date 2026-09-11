@@ -40,7 +40,10 @@ def trend_decay_page():
     half_life_text = f"Estimated half-life: ~{half_life} days" if half_life else "Could not estimate half-life"
 
     return html.Div([
-        html.H2("Trend Decay Analysis", style={'color': 'white'}),
+       html.Div("TREND DECAY", style={
+    'display': 'inline-block', 'backgroundColor': '#E85D9C', 'color': 'white',
+    'fontFamily': 'Anton, sans-serif', 'fontSize': '26px', 'padding': '8px 20px',
+    'transform': 'rotate(-2deg)', 'marginBottom': '20px'}),
         html.P("How quickly does public interest fade after a major spike?", style={'color': '#B4B4C7'}),
         html.H4(half_life_text, style={'color': '#F97316'}),
         dcc.Graph(figure=fig)

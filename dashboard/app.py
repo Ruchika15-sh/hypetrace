@@ -6,23 +6,24 @@ from pages.event_study import event_study_page
 from pages.trend_decay import trend_decay_page
 from pages.brand_comparison import brand_comparison_page, register_callbacks
 
-app = dash.Dash(__name__, suppress_callback_exceptions=True)
-register_callbacks(app)
+app = dash.Dash(__name__, suppress_callback_exceptions=True,
+    external_stylesheets=['https://fonts.googleapis.com/css2?family=Anton&family=Caveat:wght@600&family=Inter:wght@400;600&display=swap'])
 
 navbar = html.Div([
-    html.H2("HypeTrace", style={'color': 'white', 'margin': '0'}),
+    html.Div("Hi, welcome to", style={'fontFamily': 'Caveat, cursive', 'fontSize': '20px', 'color': '#E85D9C', 'marginBottom': '-8px'}),
+    html.H1("HYPETRACE", style={'fontFamily': 'Anton, sans-serif', 'fontSize': '42px', 'color': '#1a1a1a', 'margin': '0'}),
     html.Div([
-        dcc.Link("Overview", href="/", style={'color': 'white', 'marginRight': '20px'}),
-        dcc.Link("Event Study", href="/event-study", style={'color': 'white', 'marginRight': '20px'}),
-        dcc.Link("Trend Decay", href="/trend-decay", style={'color': 'white', 'marginRight': '20px'}),
-        dcc.Link("Brand Comparison", href="/brand-comparison", style={'color': 'white'}),
-    ])
-], style={'display': 'flex', 'justifyContent': 'space-between', 'alignItems': 'center', 'padding': '15px 30px', 'backgroundColor': '#1C1B29'})
+        dcc.Link("Overview", href="/", style={'color': '#1a1a1a', 'marginRight': '20px', 'fontFamily': 'Inter', 'fontWeight': '600', 'textDecoration': 'none'}),
+        dcc.Link("Event Study", href="/event-study", style={'color': '#1a1a1a', 'marginRight': '20px', 'fontFamily': 'Inter', 'fontWeight': '600', 'textDecoration': 'none'}),
+        dcc.Link("Trend Decay", href="/trend-decay", style={'color': '#1a1a1a', 'marginRight': '20px', 'fontFamily': 'Inter', 'fontWeight': '600', 'textDecoration': 'none'}),
+        dcc.Link("Brand Comparison", href="/brand-comparison", style={'color': '#1a1a1a', 'fontFamily': 'Inter', 'fontWeight': '600', 'textDecoration': 'none'}),
+    ], style={'marginTop': '10px'})
+], style={'padding': '25px 30px', 'backgroundColor': '#EDE8E0', 'borderBottom': '4px solid #1a1a1a'})
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
     navbar,
-    html.Div(id='page-content', style={'padding': '20px', 'minHeight': '90vh', 'backgroundColor': '#0F0E17'})
+    html.Div(id='page-content', style={'padding': '20px', 'minHeight': '90vh', 'backgroundColor': '#EDE8E0'})
 ], style={'margin': '0', 'fontFamily': 'Arial'})
 
 @app.callback(Output('page-content', 'children'), Input('url', 'pathname'))

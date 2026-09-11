@@ -43,7 +43,11 @@ def event_study_page():
     )
 
     return html.Div([
-        html.H2("Event Study: Impact of Celebrity Moments", style={'color': 'white'}),
+        html.Div("EVENT STUDY", style={
+    'display': 'inline-block', 'backgroundColor': '#E85D9C', 'color': 'white',
+    'fontFamily': 'Anton, sans-serif', 'fontSize': '26px', 'padding': '8px 20px',
+    'transform': 'rotate(-2deg)', 'marginBottom': '20px'
+}),
         dcc.Graph(figure=bar_fig),
         html.Br(),
         table

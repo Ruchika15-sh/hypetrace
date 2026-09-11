@@ -15,8 +15,11 @@ def brand_comparison_page():
     fig.update_layout(paper_bgcolor='#0F0E17', plot_bgcolor='#1C1B29', font_color='white')
 
     return html.Div([
-        html.H2("Brand Comparison", style={'color': 'white'}),
-        html.P("Search interest plotted against parent-company stock price. Select a brand to isolate it:", style={'color': '#B4B4C7'}),
+       html.Div("BRAND COMPARISON", style={
+    'display': 'inline-block', 'backgroundColor': '#E85D9C', 'color': 'white',
+    'fontFamily': 'Anton, sans-serif', 'fontSize': '26px', 'padding': '8px 20px',
+    'transform': 'rotate(-2deg)', 'marginBottom': '20px'
+}),
         dcc.Dropdown(
             id='brand-dropdown',
             options=[{'label': b, 'value': b} for b in summary['brand_name'].unique()],
