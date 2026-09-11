@@ -1,0 +1,2097 @@
+date,brand,search_interest
+2021-08-08,Gucci,33
+2021-08-15,Gucci,31
+2021-08-22,Gucci,31
+2021-08-29,Gucci,33
+2021-09-05,Gucci,32
+2021-09-12,Gucci,32
+2021-09-19,Gucci,31
+2021-09-26,Gucci,33
+2021-10-03,Gucci,32
+2021-10-10,Gucci,31
+2021-10-17,Gucci,31
+2021-10-24,Gucci,36
+2021-10-31,Gucci,43
+2021-11-07,Gucci,49
+2021-11-14,Gucci,56
+2021-11-21,Gucci,86
+2021-11-28,Gucci,89
+2021-12-05,Gucci,71
+2021-12-12,Gucci,63
+2021-12-19,Gucci,67
+2021-12-26,Gucci,63
+2022-01-02,Gucci,53
+2022-01-09,Gucci,47
+2022-01-16,Gucci,39
+2022-01-23,Gucci,40
+2022-01-30,Gucci,50
+2022-02-06,Gucci,51
+2022-02-13,Gucci,44
+2022-02-20,Gucci,43
+2022-02-27,Gucci,43
+2022-03-06,Gucci,39
+2022-03-13,Gucci,40
+2022-03-20,Gucci,40
+2022-03-27,Gucci,37
+2022-04-03,Gucci,35
+2022-04-10,Gucci,37
+2022-04-17,Gucci,36
+2022-04-24,Gucci,37
+2022-05-01,Gucci,37
+2022-05-08,Gucci,35
+2022-05-15,Gucci,33
+2022-05-22,Gucci,33
+2022-05-29,Gucci,34
+2022-06-05,Gucci,35
+2022-06-12,Gucci,34
+2022-06-19,Gucci,35
+2022-06-26,Gucci,34
+2022-07-03,Gucci,37
+2022-07-10,Gucci,37
+2022-07-17,Gucci,41
+2022-07-24,Gucci,38
+2022-07-31,Gucci,39
+2022-08-07,Gucci,36
+2022-08-14,Gucci,35
+2022-08-21,Gucci,33
+2022-08-28,Gucci,32
+2022-09-04,Gucci,30
+2022-09-11,Gucci,29
+2022-09-18,Gucci,29
+2022-09-25,Gucci,31
+2022-10-02,Gucci,29
+2022-10-09,Gucci,31
+2022-10-16,Gucci,29
+2022-10-23,Gucci,29
+2022-10-30,Gucci,29
+2022-11-06,Gucci,29
+2022-11-13,Gucci,31
+2022-11-20,Gucci,35
+2022-11-27,Gucci,32
+2022-12-04,Gucci,34
+2022-12-11,Gucci,36
+2022-12-18,Gucci,38
+2022-12-25,Gucci,40
+2023-01-01,Gucci,33
+2023-01-08,Gucci,30
+2023-01-15,Gucci,28
+2023-01-22,Gucci,29
+2023-01-29,Gucci,29
+2023-02-05,Gucci,28
+2023-02-12,Gucci,27
+2023-02-19,Gucci,28
+2023-02-26,Gucci,28
+2023-03-05,Gucci,27
+2023-03-12,Gucci,26
+2023-03-19,Gucci,27
+2023-03-26,Gucci,27
+2023-04-02,Gucci,28
+2023-04-09,Gucci,28
+2023-04-16,Gucci,27
+2023-04-23,Gucci,28
+2023-04-30,Gucci,29
+2023-05-07,Gucci,26
+2023-05-14,Gucci,29
+2023-05-21,Gucci,27
+2023-05-28,Gucci,27
+2023-06-04,Gucci,26
+2023-06-11,Gucci,30
+2023-06-18,Gucci,27
+2023-06-25,Gucci,27
+2023-07-02,Gucci,27
+2023-07-09,Gucci,28
+2023-07-16,Gucci,27
+2023-07-23,Gucci,27
+2023-07-30,Gucci,27
+2023-08-06,Gucci,27
+2023-08-13,Gucci,26
+2023-08-20,Gucci,25
+2023-08-27,Gucci,26
+2023-09-03,Gucci,24
+2023-09-10,Gucci,24
+2023-09-17,Gucci,24
+2023-09-24,Gucci,25
+2023-10-01,Gucci,24
+2023-10-08,Gucci,24
+2023-10-15,Gucci,29
+2023-10-22,Gucci,25
+2023-10-29,Gucci,23
+2023-11-05,Gucci,28
+2023-11-12,Gucci,29
+2023-11-19,Gucci,31
+2023-11-26,Gucci,28
+2023-12-03,Gucci,30
+2023-12-10,Gucci,31
+2023-12-17,Gucci,33
+2023-12-24,Gucci,36
+2023-12-31,Gucci,29
+2024-01-07,Gucci,26
+2024-01-14,Gucci,26
+2024-01-21,Gucci,25
+2024-01-28,Gucci,26
+2024-02-04,Gucci,25
+2024-02-11,Gucci,25
+2024-02-18,Gucci,25
+2024-02-25,Gucci,25
+2024-03-03,Gucci,26
+2024-03-10,Gucci,25
+2024-03-17,Gucci,26
+2024-03-24,Gucci,26
+2024-03-31,Gucci,25
+2024-04-07,Gucci,24
+2024-04-14,Gucci,25
+2024-04-21,Gucci,25
+2024-04-28,Gucci,26
+2024-05-05,Gucci,25
+2024-05-12,Gucci,27
+2024-05-19,Gucci,25
+2024-05-26,Gucci,25
+2024-06-02,Gucci,25
+2024-06-09,Gucci,25
+2024-06-16,Gucci,24
+2024-06-23,Gucci,24
+2024-06-30,Gucci,23
+2024-07-07,Gucci,24
+2024-07-14,Gucci,23
+2024-07-21,Gucci,24
+2024-07-28,Gucci,23
+2024-08-04,Gucci,25
+2024-08-11,Gucci,24
+2024-08-18,Gucci,24
+2024-08-25,Gucci,24
+2024-09-01,Gucci,24
+2024-09-08,Gucci,23
+2024-09-15,Gucci,23
+2024-09-22,Gucci,23
+2024-09-29,Gucci,23
+2024-10-06,Gucci,24
+2024-10-13,Gucci,27
+2024-10-20,Gucci,23
+2024-10-27,Gucci,22
+2024-11-03,Gucci,23
+2024-11-10,Gucci,25
+2024-11-17,Gucci,25
+2024-11-24,Gucci,29
+2024-12-01,Gucci,27
+2024-12-08,Gucci,27
+2024-12-15,Gucci,31
+2024-12-22,Gucci,35
+2024-12-29,Gucci,29
+2025-01-05,Gucci,25
+2025-01-12,Gucci,25
+2025-01-19,Gucci,22
+2025-01-26,Gucci,21
+2025-02-02,Gucci,23
+2025-02-09,Gucci,24
+2025-02-16,Gucci,23
+2025-02-23,Gucci,22
+2025-03-02,Gucci,21
+2025-03-09,Gucci,23
+2025-03-16,Gucci,23
+2025-03-23,Gucci,23
+2025-03-30,Gucci,22
+2025-04-06,Gucci,22
+2025-04-13,Gucci,23
+2025-04-20,Gucci,24
+2025-04-27,Gucci,24
+2025-05-04,Gucci,25
+2025-05-11,Gucci,22
+2025-05-18,Gucci,24
+2025-05-25,Gucci,22
+2025-06-01,Gucci,23
+2025-06-08,Gucci,22
+2025-06-15,Gucci,22
+2025-06-22,Gucci,21
+2025-06-29,Gucci,22
+2025-07-06,Gucci,22
+2025-07-13,Gucci,23
+2025-07-20,Gucci,24
+2025-07-27,Gucci,24
+2025-08-03,Gucci,24
+2025-08-10,Gucci,24
+2025-08-17,Gucci,25
+2025-08-24,Gucci,24
+2025-08-31,Gucci,24
+2025-09-07,Gucci,23
+2025-09-14,Gucci,22
+2025-09-21,Gucci,24
+2025-09-28,Gucci,23
+2025-10-05,Gucci,24
+2025-10-12,Gucci,24
+2025-10-19,Gucci,24
+2025-10-26,Gucci,21
+2025-11-02,Gucci,22
+2025-11-09,Gucci,23
+2025-11-16,Gucci,27
+2025-11-23,Gucci,26
+2025-11-30,Gucci,26
+2025-12-07,Gucci,27
+2025-12-14,Gucci,29
+2025-12-21,Gucci,30
+2025-12-28,Gucci,26
+2026-01-04,Gucci,22
+2026-01-11,Gucci,22
+2026-01-18,Gucci,20
+2026-01-25,Gucci,21
+2026-02-01,Gucci,22
+2026-02-08,Gucci,23
+2026-02-15,Gucci,25
+2026-02-22,Gucci,27
+2026-03-01,Gucci,28
+2026-03-08,Gucci,25
+2026-03-15,Gucci,26
+2026-03-22,Gucci,52
+2026-03-29,Gucci,76
+2026-04-05,Gucci,74
+2026-04-12,Gucci,83
+2026-04-19,Gucci,78
+2026-04-26,Gucci,76
+2026-05-03,Gucci,100
+2026-05-10,Gucci,82
+2026-05-17,Gucci,47
+2026-05-24,Gucci,42
+2026-05-31,Gucci,43
+2026-06-07,Gucci,29
+2026-06-14,Gucci,27
+2026-06-21,Gucci,25
+2026-06-28,Gucci,23
+2026-07-05,Gucci,26
+2026-07-12,Gucci,23
+2026-07-19,Gucci,26
+2026-07-26,Gucci,24
+2026-08-02,Gucci,22
+2026-08-09,Gucci,22
+2021-08-08,Nike,73
+2021-08-15,Nike,71
+2021-08-22,Nike,70
+2021-08-29,Nike,72
+2021-09-05,Nike,70
+2021-09-12,Nike,65
+2021-09-19,Nike,64
+2021-09-26,Nike,62
+2021-10-03,Nike,70
+2021-10-10,Nike,66
+2021-10-17,Nike,69
+2021-10-24,Nike,63
+2021-10-31,Nike,67
+2021-11-07,Nike,71
+2021-11-14,Nike,74
+2021-11-21,Nike,98
+2021-11-28,Nike,88
+2021-12-05,Nike,84
+2021-12-12,Nike,85
+2021-12-19,Nike,83
+2021-12-26,Nike,75
+2022-01-02,Nike,76
+2022-01-09,Nike,72
+2022-01-16,Nike,64
+2022-01-23,Nike,65
+2022-01-30,Nike,68
+2022-02-06,Nike,70
+2022-02-13,Nike,68
+2022-02-20,Nike,67
+2022-02-27,Nike,72
+2022-03-06,Nike,65
+2022-03-13,Nike,70
+2022-03-20,Nike,74
+2022-03-27,Nike,70
+2022-04-03,Nike,77
+2022-04-10,Nike,73
+2022-04-17,Nike,73
+2022-04-24,Nike,76
+2022-05-01,Nike,76
+2022-05-08,Nike,70
+2022-05-15,Nike,69
+2022-05-22,Nike,70
+2022-05-29,Nike,68
+2022-06-05,Nike,67
+2022-06-12,Nike,66
+2022-06-19,Nike,72
+2022-06-26,Nike,69
+2022-07-03,Nike,67
+2022-07-10,Nike,68
+2022-07-17,Nike,71
+2022-07-24,Nike,70
+2022-07-31,Nike,75
+2022-08-07,Nike,79
+2022-08-14,Nike,75
+2022-08-21,Nike,76
+2022-08-28,Nike,77
+2022-09-04,Nike,71
+2022-09-11,Nike,73
+2022-09-18,Nike,72
+2022-09-25,Nike,71
+2022-10-02,Nike,70
+2022-10-09,Nike,73
+2022-10-16,Nike,67
+2022-10-23,Nike,68
+2022-10-30,Nike,71
+2022-11-06,Nike,77
+2022-11-13,Nike,88
+2022-11-20,Nike,100
+2022-11-27,Nike,89
+2022-12-04,Nike,84
+2022-12-11,Nike,94
+2022-12-18,Nike,87
+2022-12-25,Nike,86
+2023-01-01,Nike,74
+2023-01-08,Nike,73
+2023-01-15,Nike,74
+2023-01-22,Nike,71
+2023-01-29,Nike,72
+2023-02-05,Nike,72
+2023-02-12,Nike,67
+2023-02-19,Nike,71
+2023-02-26,Nike,70
+2023-03-05,Nike,72
+2023-03-12,Nike,71
+2023-03-19,Nike,73
+2023-03-26,Nike,73
+2023-04-02,Nike,77
+2023-04-09,Nike,77
+2023-04-16,Nike,78
+2023-04-23,Nike,72
+2023-04-30,Nike,75
+2023-05-07,Nike,72
+2023-05-14,Nike,73
+2023-05-21,Nike,66
+2023-05-28,Nike,71
+2023-06-04,Nike,66
+2023-06-11,Nike,68
+2023-06-18,Nike,65
+2023-06-25,Nike,64
+2023-07-02,Nike,72
+2023-07-09,Nike,64
+2023-07-16,Nike,68
+2023-07-23,Nike,71
+2023-07-30,Nike,74
+2023-08-06,Nike,74
+2023-08-13,Nike,71
+2023-08-20,Nike,71
+2023-08-27,Nike,75
+2023-09-03,Nike,69
+2023-09-10,Nike,66
+2023-09-17,Nike,68
+2023-09-24,Nike,70
+2023-10-01,Nike,68
+2023-10-08,Nike,67
+2023-10-15,Nike,69
+2023-10-22,Nike,63
+2023-10-29,Nike,64
+2023-11-05,Nike,72
+2023-11-12,Nike,78
+2023-11-19,Nike,98
+2023-11-26,Nike,84
+2023-12-03,Nike,79
+2023-12-10,Nike,85
+2023-12-17,Nike,76
+2023-12-24,Nike,81
+2023-12-31,Nike,68
+2024-01-07,Nike,64
+2024-01-14,Nike,64
+2024-01-21,Nike,59
+2024-01-28,Nike,62
+2024-02-04,Nike,63
+2024-02-11,Nike,62
+2024-02-18,Nike,64
+2024-02-25,Nike,63
+2024-03-03,Nike,63
+2024-03-10,Nike,61
+2024-03-17,Nike,65
+2024-03-24,Nike,68
+2024-03-31,Nike,69
+2024-04-07,Nike,66
+2024-04-14,Nike,66
+2024-04-21,Nike,65
+2024-04-28,Nike,66
+2024-05-05,Nike,62
+2024-05-12,Nike,62
+2024-05-19,Nike,60
+2024-05-26,Nike,63
+2024-06-02,Nike,62
+2024-06-09,Nike,62
+2024-06-16,Nike,59
+2024-06-23,Nike,59
+2024-06-30,Nike,59
+2024-07-07,Nike,61
+2024-07-14,Nike,67
+2024-07-21,Nike,65
+2024-07-28,Nike,66
+2024-08-04,Nike,71
+2024-08-11,Nike,66
+2024-08-18,Nike,69
+2024-08-25,Nike,65
+2024-09-01,Nike,66
+2024-09-08,Nike,60
+2024-09-15,Nike,60
+2024-09-22,Nike,60
+2024-09-29,Nike,60
+2024-10-06,Nike,60
+2024-10-13,Nike,59
+2024-10-20,Nike,58
+2024-10-27,Nike,58
+2024-11-03,Nike,60
+2024-11-10,Nike,66
+2024-11-17,Nike,76
+2024-11-24,Nike,94
+2024-12-01,Nike,78
+2024-12-08,Nike,73
+2024-12-15,Nike,72
+2024-12-22,Nike,75
+2024-12-29,Nike,63
+2025-01-05,Nike,61
+2025-01-12,Nike,60
+2025-01-19,Nike,56
+2025-01-26,Nike,61
+2025-02-02,Nike,58
+2025-02-09,Nike,60
+2025-02-16,Nike,54
+2025-02-23,Nike,60
+2025-03-02,Nike,61
+2025-03-09,Nike,61
+2025-03-16,Nike,63
+2025-03-23,Nike,64
+2025-03-30,Nike,63
+2025-04-06,Nike,62
+2025-04-13,Nike,60
+2025-04-20,Nike,60
+2025-04-27,Nike,61
+2025-05-04,Nike,63
+2025-05-11,Nike,57
+2025-05-18,Nike,57
+2025-05-25,Nike,59
+2025-06-01,Nike,62
+2025-06-08,Nike,59
+2025-06-15,Nike,56
+2025-06-22,Nike,56
+2025-06-29,Nike,54
+2025-07-06,Nike,62
+2025-07-13,Nike,59
+2025-07-20,Nike,60
+2025-07-27,Nike,66
+2025-08-03,Nike,67
+2025-08-10,Nike,67
+2025-08-17,Nike,66
+2025-08-24,Nike,70
+2025-08-31,Nike,65
+2025-09-07,Nike,62
+2025-09-14,Nike,54
+2025-09-21,Nike,59
+2025-09-28,Nike,59
+2025-10-05,Nike,60
+2025-10-12,Nike,58
+2025-10-19,Nike,56
+2025-10-26,Nike,54
+2025-11-02,Nike,61
+2025-11-09,Nike,66
+2025-11-16,Nike,75
+2025-11-23,Nike,86
+2025-11-30,Nike,78
+2025-12-07,Nike,69
+2025-12-14,Nike,71
+2025-12-21,Nike,69
+2025-12-28,Nike,59
+2026-01-04,Nike,61
+2026-01-11,Nike,61
+2026-01-18,Nike,56
+2026-01-25,Nike,56
+2026-02-01,Nike,55
+2026-02-08,Nike,61
+2026-02-15,Nike,60
+2026-02-22,Nike,60
+2026-03-01,Nike,62
+2026-03-08,Nike,63
+2026-03-15,Nike,66
+2026-03-22,Nike,80
+2026-03-29,Nike,99
+2026-04-05,Nike,99
+2026-04-12,Nike,96
+2026-04-19,Nike,90
+2026-04-26,Nike,88
+2026-05-03,Nike,91
+2026-05-10,Nike,93
+2026-05-17,Nike,78
+2026-05-24,Nike,76
+2026-05-31,Nike,80
+2026-06-07,Nike,71
+2026-06-14,Nike,68
+2026-06-21,Nike,68
+2026-06-28,Nike,61
+2026-07-05,Nike,62
+2026-07-12,Nike,57
+2026-07-19,Nike,64
+2026-07-26,Nike,62
+2026-08-02,Nike,59
+2026-08-09,Nike,59
+2021-08-08,Zara,48
+2021-08-15,Zara,46
+2021-08-22,Zara,51
+2021-08-29,Zara,51
+2021-09-05,Zara,51
+2021-09-12,Zara,55
+2021-09-19,Zara,57
+2021-09-26,Zara,58
+2021-10-03,Zara,58
+2021-10-10,Zara,61
+2021-10-17,Zara,63
+2021-10-24,Zara,57
+2021-10-31,Zara,60
+2021-11-07,Zara,65
+2021-11-14,Zara,64
+2021-11-21,Zara,90
+2021-11-28,Zara,67
+2021-12-05,Zara,61
+2021-12-12,Zara,63
+2021-12-19,Zara,64
+2021-12-26,Zara,70
+2022-01-02,Zara,69
+2022-01-09,Zara,66
+2022-01-16,Zara,53
+2022-01-23,Zara,55
+2022-01-30,Zara,56
+2022-02-06,Zara,55
+2022-02-13,Zara,51
+2022-02-20,Zara,49
+2022-02-27,Zara,49
+2022-03-06,Zara,51
+2022-03-13,Zara,50
+2022-03-20,Zara,54
+2022-03-27,Zara,53
+2022-04-03,Zara,55
+2022-04-10,Zara,54
+2022-04-17,Zara,57
+2022-04-24,Zara,61
+2022-05-01,Zara,60
+2022-05-08,Zara,62
+2022-05-15,Zara,62
+2022-05-22,Zara,58
+2022-05-29,Zara,58
+2022-06-05,Zara,58
+2022-06-12,Zara,58
+2022-06-19,Zara,77
+2022-06-26,Zara,63
+2022-07-03,Zara,59
+2022-07-10,Zara,54
+2022-07-17,Zara,54
+2022-07-24,Zara,53
+2022-07-31,Zara,51
+2022-08-07,Zara,52
+2022-08-14,Zara,51
+2022-08-21,Zara,50
+2022-08-28,Zara,51
+2022-09-04,Zara,52
+2022-09-11,Zara,58
+2022-09-18,Zara,62
+2022-09-25,Zara,58
+2022-10-02,Zara,56
+2022-10-09,Zara,60
+2022-10-16,Zara,55
+2022-10-23,Zara,56
+2022-10-30,Zara,56
+2022-11-06,Zara,61
+2022-11-13,Zara,63
+2022-11-20,Zara,91
+2022-11-27,Zara,64
+2022-12-04,Zara,62
+2022-12-11,Zara,65
+2022-12-18,Zara,62
+2022-12-25,Zara,74
+2023-01-01,Zara,69
+2023-01-08,Zara,62
+2023-01-15,Zara,58
+2023-01-22,Zara,58
+2023-01-29,Zara,55
+2023-02-05,Zara,50
+2023-02-12,Zara,48
+2023-02-19,Zara,51
+2023-02-26,Zara,50
+2023-03-05,Zara,52
+2023-03-12,Zara,53
+2023-03-19,Zara,55
+2023-03-26,Zara,53
+2023-04-02,Zara,54
+2023-04-09,Zara,59
+2023-04-16,Zara,56
+2023-04-23,Zara,58
+2023-04-30,Zara,57
+2023-05-07,Zara,56
+2023-05-14,Zara,54
+2023-05-21,Zara,54
+2023-05-28,Zara,61
+2023-06-04,Zara,65
+2023-06-11,Zara,68
+2023-06-18,Zara,78
+2023-06-25,Zara,67
+2023-07-02,Zara,63
+2023-07-09,Zara,59
+2023-07-16,Zara,63
+2023-07-23,Zara,55
+2023-07-30,Zara,54
+2023-08-06,Zara,52
+2023-08-13,Zara,50
+2023-08-20,Zara,49
+2023-08-27,Zara,54
+2023-09-03,Zara,52
+2023-09-10,Zara,51
+2023-09-17,Zara,55
+2023-09-24,Zara,56
+2023-10-01,Zara,57
+2023-10-08,Zara,58
+2023-10-15,Zara,60
+2023-10-22,Zara,62
+2023-10-29,Zara,59
+2023-11-05,Zara,64
+2023-11-12,Zara,68
+2023-11-19,Zara,100
+2023-11-26,Zara,66
+2023-12-03,Zara,74
+2023-12-10,Zara,80
+2023-12-17,Zara,65
+2023-12-24,Zara,74
+2023-12-31,Zara,66
+2024-01-07,Zara,63
+2024-01-14,Zara,58
+2024-01-21,Zara,54
+2024-01-28,Zara,52
+2024-02-04,Zara,51
+2024-02-11,Zara,52
+2024-02-18,Zara,52
+2024-02-25,Zara,53
+2024-03-03,Zara,52
+2024-03-10,Zara,51
+2024-03-17,Zara,55
+2024-03-24,Zara,59
+2024-03-31,Zara,58
+2024-04-07,Zara,57
+2024-04-14,Zara,56
+2024-04-21,Zara,55
+2024-04-28,Zara,57
+2024-05-05,Zara,57
+2024-05-12,Zara,61
+2024-05-19,Zara,59
+2024-05-26,Zara,56
+2024-06-02,Zara,58
+2024-06-09,Zara,55
+2024-06-16,Zara,59
+2024-06-23,Zara,73
+2024-06-30,Zara,64
+2024-07-07,Zara,57
+2024-07-14,Zara,54
+2024-07-21,Zara,53
+2024-07-28,Zara,50
+2024-08-04,Zara,51
+2024-08-11,Zara,50
+2024-08-18,Zara,52
+2024-08-25,Zara,54
+2024-09-01,Zara,54
+2024-09-08,Zara,59
+2024-09-15,Zara,58
+2024-09-22,Zara,57
+2024-09-29,Zara,60
+2024-10-06,Zara,60
+2024-10-13,Zara,59
+2024-10-20,Zara,57
+2024-10-27,Zara,57
+2024-11-03,Zara,59
+2024-11-10,Zara,66
+2024-11-17,Zara,74
+2024-11-24,Zara,100
+2024-12-01,Zara,70
+2024-12-08,Zara,72
+2024-12-15,Zara,69
+2024-12-22,Zara,81
+2024-12-29,Zara,72
+2025-01-05,Zara,66
+2025-01-12,Zara,60
+2025-01-19,Zara,55
+2025-01-26,Zara,51
+2025-02-02,Zara,54
+2025-02-09,Zara,52
+2025-02-16,Zara,49
+2025-02-23,Zara,50
+2025-03-02,Zara,50
+2025-03-09,Zara,53
+2025-03-16,Zara,55
+2025-03-23,Zara,54
+2025-03-30,Zara,56
+2025-04-06,Zara,56
+2025-04-13,Zara,53
+2025-04-20,Zara,54
+2025-04-27,Zara,54
+2025-05-04,Zara,53
+2025-05-11,Zara,53
+2025-05-18,Zara,51
+2025-05-25,Zara,55
+2025-06-01,Zara,57
+2025-06-08,Zara,53
+2025-06-15,Zara,55
+2025-06-22,Zara,70
+2025-06-29,Zara,59
+2025-07-06,Zara,53
+2025-07-13,Zara,51
+2025-07-20,Zara,50
+2025-07-27,Zara,50
+2025-08-03,Zara,53
+2025-08-10,Zara,57
+2025-08-17,Zara,53
+2025-08-24,Zara,55
+2025-08-31,Zara,54
+2025-09-07,Zara,54
+2025-09-14,Zara,53
+2025-09-21,Zara,58
+2025-09-28,Zara,60
+2025-10-05,Zara,58
+2025-10-12,Zara,58
+2025-10-19,Zara,57
+2025-10-26,Zara,56
+2025-11-02,Zara,59
+2025-11-09,Zara,67
+2025-11-16,Zara,70
+2025-11-23,Zara,93
+2025-11-30,Zara,68
+2025-12-07,Zara,63
+2025-12-14,Zara,67
+2025-12-21,Zara,71
+2025-12-28,Zara,68
+2026-01-04,Zara,63
+2026-01-11,Zara,56
+2026-01-18,Zara,55
+2026-01-25,Zara,53
+2026-02-01,Zara,50
+2026-02-08,Zara,51
+2026-02-15,Zara,49
+2026-02-22,Zara,50
+2026-03-01,Zara,53
+2026-03-08,Zara,57
+2026-03-15,Zara,57
+2026-03-22,Zara,67
+2026-03-29,Zara,72
+2026-04-05,Zara,78
+2026-04-12,Zara,78
+2026-04-19,Zara,75
+2026-04-26,Zara,75
+2026-05-03,Zara,88
+2026-05-10,Zara,79
+2026-05-17,Zara,69
+2026-05-24,Zara,66
+2026-05-31,Zara,66
+2026-06-07,Zara,57
+2026-06-14,Zara,56
+2026-06-21,Zara,68
+2026-06-28,Zara,53
+2026-07-05,Zara,55
+2026-07-12,Zara,51
+2026-07-19,Zara,50
+2026-07-26,Zara,49
+2026-08-02,Zara,50
+2026-08-09,Zara,48
+2021-08-08,Balenciaga,8
+2021-08-15,Balenciaga,8
+2021-08-22,Balenciaga,8
+2021-08-29,Balenciaga,8
+2021-09-05,Balenciaga,9
+2021-09-12,Balenciaga,10
+2021-09-19,Balenciaga,12
+2021-09-26,Balenciaga,9
+2021-10-03,Balenciaga,11
+2021-10-10,Balenciaga,9
+2021-10-17,Balenciaga,9
+2021-10-24,Balenciaga,9
+2021-10-31,Balenciaga,10
+2021-11-07,Balenciaga,10
+2021-11-14,Balenciaga,12
+2021-11-21,Balenciaga,13
+2021-11-28,Balenciaga,12
+2021-12-05,Balenciaga,12
+2021-12-12,Balenciaga,12
+2021-12-19,Balenciaga,13
+2021-12-26,Balenciaga,14
+2022-01-02,Balenciaga,13
+2022-01-09,Balenciaga,11
+2022-01-16,Balenciaga,11
+2022-01-23,Balenciaga,11
+2022-01-30,Balenciaga,11
+2022-02-06,Balenciaga,11
+2022-02-13,Balenciaga,10
+2022-02-20,Balenciaga,11
+2022-02-27,Balenciaga,10
+2022-03-06,Balenciaga,12
+2022-03-13,Balenciaga,11
+2022-03-20,Balenciaga,10
+2022-03-27,Balenciaga,10
+2022-04-03,Balenciaga,10
+2022-04-10,Balenciaga,10
+2022-04-17,Balenciaga,10
+2022-04-24,Balenciaga,11
+2022-05-01,Balenciaga,11
+2022-05-08,Balenciaga,23
+2022-05-15,Balenciaga,14
+2022-05-22,Balenciaga,16
+2022-05-29,Balenciaga,13
+2022-06-05,Balenciaga,12
+2022-06-12,Balenciaga,12
+2022-06-19,Balenciaga,12
+2022-06-26,Balenciaga,11
+2022-07-03,Balenciaga,13
+2022-07-10,Balenciaga,13
+2022-07-17,Balenciaga,11
+2022-07-24,Balenciaga,12
+2022-07-31,Balenciaga,14
+2022-08-07,Balenciaga,13
+2022-08-14,Balenciaga,12
+2022-08-21,Balenciaga,13
+2022-08-28,Balenciaga,13
+2022-09-04,Balenciaga,14
+2022-09-11,Balenciaga,12
+2022-09-18,Balenciaga,11
+2022-09-25,Balenciaga,12
+2022-10-02,Balenciaga,16
+2022-10-09,Balenciaga,14
+2022-10-16,Balenciaga,13
+2022-10-23,Balenciaga,14
+2022-10-30,Balenciaga,13
+2022-11-06,Balenciaga,12
+2022-11-13,Balenciaga,13
+2022-11-20,Balenciaga,34
+2022-11-27,Balenciaga,100
+2022-12-04,Balenciaga,41
+2022-12-11,Balenciaga,19
+2022-12-18,Balenciaga,15
+2022-12-25,Balenciaga,16
+2023-01-01,Balenciaga,13
+2023-01-08,Balenciaga,12
+2023-01-15,Balenciaga,11
+2023-01-22,Balenciaga,10
+2023-01-29,Balenciaga,10
+2023-02-05,Balenciaga,10
+2023-02-12,Balenciaga,8
+2023-02-19,Balenciaga,9
+2023-02-26,Balenciaga,9
+2023-03-05,Balenciaga,9
+2023-03-12,Balenciaga,8
+2023-03-19,Balenciaga,9
+2023-03-26,Balenciaga,10
+2023-04-02,Balenciaga,12
+2023-04-09,Balenciaga,10
+2023-04-16,Balenciaga,10
+2023-04-23,Balenciaga,9
+2023-04-30,Balenciaga,9
+2023-05-07,Balenciaga,8
+2023-05-14,Balenciaga,8
+2023-05-21,Balenciaga,8
+2023-05-28,Balenciaga,9
+2023-06-04,Balenciaga,9
+2023-06-11,Balenciaga,9
+2023-06-18,Balenciaga,9
+2023-06-25,Balenciaga,9
+2023-07-02,Balenciaga,10
+2023-07-09,Balenciaga,9
+2023-07-16,Balenciaga,8
+2023-07-23,Balenciaga,9
+2023-07-30,Balenciaga,8
+2023-08-06,Balenciaga,8
+2023-08-13,Balenciaga,9
+2023-08-20,Balenciaga,8
+2023-08-27,Balenciaga,8
+2023-09-03,Balenciaga,8
+2023-09-10,Balenciaga,8
+2023-09-17,Balenciaga,8
+2023-09-24,Balenciaga,8
+2023-10-01,Balenciaga,8
+2023-10-08,Balenciaga,8
+2023-10-15,Balenciaga,8
+2023-10-22,Balenciaga,8
+2023-10-29,Balenciaga,8
+2023-11-05,Balenciaga,8
+2023-11-12,Balenciaga,11
+2023-11-19,Balenciaga,10
+2023-11-26,Balenciaga,10
+2023-12-03,Balenciaga,10
+2023-12-10,Balenciaga,10
+2023-12-17,Balenciaga,9
+2023-12-24,Balenciaga,10
+2023-12-31,Balenciaga,9
+2024-01-07,Balenciaga,9
+2024-01-14,Balenciaga,10
+2024-01-21,Balenciaga,12
+2024-01-28,Balenciaga,10
+2024-02-04,Balenciaga,9
+2024-02-11,Balenciaga,9
+2024-02-18,Balenciaga,9
+2024-02-25,Balenciaga,9
+2024-03-03,Balenciaga,10
+2024-03-10,Balenciaga,10
+2024-03-17,Balenciaga,11
+2024-03-24,Balenciaga,11
+2024-03-31,Balenciaga,10
+2024-04-07,Balenciaga,9
+2024-04-14,Balenciaga,9
+2024-04-21,Balenciaga,9
+2024-04-28,Balenciaga,9
+2024-05-05,Balenciaga,9
+2024-05-12,Balenciaga,9
+2024-05-19,Balenciaga,8
+2024-05-26,Balenciaga,9
+2024-06-02,Balenciaga,9
+2024-06-09,Balenciaga,9
+2024-06-16,Balenciaga,9
+2024-06-23,Balenciaga,13
+2024-06-30,Balenciaga,10
+2024-07-07,Balenciaga,9
+2024-07-14,Balenciaga,9
+2024-07-21,Balenciaga,9
+2024-07-28,Balenciaga,8
+2024-08-04,Balenciaga,9
+2024-08-11,Balenciaga,9
+2024-08-18,Balenciaga,8
+2024-08-25,Balenciaga,8
+2024-09-01,Balenciaga,8
+2024-09-08,Balenciaga,9
+2024-09-15,Balenciaga,9
+2024-09-22,Balenciaga,8
+2024-09-29,Balenciaga,9
+2024-10-06,Balenciaga,9
+2024-10-13,Balenciaga,8
+2024-10-20,Balenciaga,9
+2024-10-27,Balenciaga,9
+2024-11-03,Balenciaga,9
+2024-11-10,Balenciaga,9
+2024-11-17,Balenciaga,9
+2024-11-24,Balenciaga,10
+2024-12-01,Balenciaga,10
+2024-12-08,Balenciaga,10
+2024-12-15,Balenciaga,9
+2024-12-22,Balenciaga,10
+2024-12-29,Balenciaga,9
+2025-01-05,Balenciaga,9
+2025-01-12,Balenciaga,10
+2025-01-19,Balenciaga,9
+2025-01-26,Balenciaga,8
+2025-02-02,Balenciaga,8
+2025-02-09,Balenciaga,8
+2025-02-16,Balenciaga,8
+2025-02-23,Balenciaga,9
+2025-03-02,Balenciaga,9
+2025-03-09,Balenciaga,9
+2025-03-16,Balenciaga,9
+2025-03-23,Balenciaga,8
+2025-03-30,Balenciaga,8
+2025-04-06,Balenciaga,8
+2025-04-13,Balenciaga,8
+2025-04-20,Balenciaga,8
+2025-04-27,Balenciaga,8
+2025-05-04,Balenciaga,8
+2025-05-11,Balenciaga,7
+2025-05-18,Balenciaga,8
+2025-05-25,Balenciaga,8
+2025-06-01,Balenciaga,8
+2025-06-08,Balenciaga,7
+2025-06-15,Balenciaga,7
+2025-06-22,Balenciaga,7
+2025-06-29,Balenciaga,7
+2025-07-06,Balenciaga,8
+2025-07-13,Balenciaga,9
+2025-07-20,Balenciaga,9
+2025-07-27,Balenciaga,9
+2025-08-03,Balenciaga,9
+2025-08-10,Balenciaga,8
+2025-08-17,Balenciaga,8
+2025-08-24,Balenciaga,8
+2025-08-31,Balenciaga,8
+2025-09-07,Balenciaga,8
+2025-09-14,Balenciaga,8
+2025-09-21,Balenciaga,8
+2025-09-28,Balenciaga,8
+2025-10-05,Balenciaga,9
+2025-10-12,Balenciaga,8
+2025-10-19,Balenciaga,8
+2025-10-26,Balenciaga,7
+2025-11-02,Balenciaga,8
+2025-11-09,Balenciaga,8
+2025-11-16,Balenciaga,9
+2025-11-23,Balenciaga,9
+2025-11-30,Balenciaga,8
+2025-12-07,Balenciaga,8
+2025-12-14,Balenciaga,9
+2025-12-21,Balenciaga,9
+2025-12-28,Balenciaga,8
+2026-01-04,Balenciaga,8
+2026-01-11,Balenciaga,7
+2026-01-18,Balenciaga,8
+2026-01-25,Balenciaga,8
+2026-02-01,Balenciaga,9
+2026-02-08,Balenciaga,10
+2026-02-15,Balenciaga,10
+2026-02-22,Balenciaga,10
+2026-03-01,Balenciaga,10
+2026-03-08,Balenciaga,12
+2026-03-15,Balenciaga,18
+2026-03-22,Balenciaga,17
+2026-03-29,Balenciaga,13
+2026-04-05,Balenciaga,13
+2026-04-12,Balenciaga,12
+2026-04-19,Balenciaga,10
+2026-04-26,Balenciaga,11
+2026-05-03,Balenciaga,10
+2026-05-10,Balenciaga,9
+2026-05-17,Balenciaga,10
+2026-05-24,Balenciaga,9
+2026-05-31,Balenciaga,9
+2026-06-07,Balenciaga,8
+2026-06-14,Balenciaga,8
+2026-06-21,Balenciaga,8
+2026-06-28,Balenciaga,8
+2026-07-05,Balenciaga,8
+2026-07-12,Balenciaga,8
+2026-07-19,Balenciaga,9
+2026-07-26,Balenciaga,8
+2026-08-02,Balenciaga,7
+2026-08-09,Balenciaga,7
+2021-08-08,H&M,41
+2021-08-15,H&M,44
+2021-08-22,H&M,47
+2021-08-29,H&M,48
+2021-09-05,H&M,45
+2021-09-12,H&M,44
+2021-09-19,H&M,47
+2021-09-26,H&M,50
+2021-10-03,H&M,50
+2021-10-10,H&M,51
+2021-10-17,H&M,49
+2021-10-24,H&M,50
+2021-10-31,H&M,48
+2021-11-07,H&M,52
+2021-11-14,H&M,50
+2021-11-21,H&M,65
+2021-11-28,H&M,54
+2021-12-05,H&M,52
+2021-12-12,H&M,53
+2021-12-19,H&M,49
+2021-12-26,H&M,48
+2022-01-02,H&M,45
+2022-01-09,H&M,42
+2022-01-16,H&M,35
+2022-01-23,H&M,37
+2022-01-30,H&M,37
+2022-02-06,H&M,39
+2022-02-13,H&M,38
+2022-02-20,H&M,36
+2022-02-27,H&M,38
+2022-03-06,H&M,38
+2022-03-13,H&M,41
+2022-03-20,H&M,41
+2022-03-27,H&M,40
+2022-04-03,H&M,42
+2022-04-10,H&M,44
+2022-04-17,H&M,42
+2022-04-24,H&M,43
+2022-05-01,H&M,45
+2022-05-08,H&M,49
+2022-05-15,H&M,42
+2022-05-22,H&M,40
+2022-05-29,H&M,42
+2022-06-05,H&M,41
+2022-06-12,H&M,41
+2022-06-19,H&M,46
+2022-06-26,H&M,42
+2022-07-03,H&M,43
+2022-07-10,H&M,42
+2022-07-17,H&M,41
+2022-07-24,H&M,40
+2022-07-31,H&M,40
+2022-08-07,H&M,39
+2022-08-14,H&M,39
+2022-08-21,H&M,39
+2022-08-28,H&M,42
+2022-09-04,H&M,40
+2022-09-11,H&M,43
+2022-09-18,H&M,49
+2022-09-25,H&M,47
+2022-10-02,H&M,44
+2022-10-09,H&M,45
+2022-10-16,H&M,43
+2022-10-23,H&M,42
+2022-10-30,H&M,42
+2022-11-06,H&M,44
+2022-11-13,H&M,48
+2022-11-20,H&M,57
+2022-11-27,H&M,50
+2022-12-04,H&M,47
+2022-12-11,H&M,51
+2022-12-18,H&M,46
+2022-12-25,H&M,45
+2023-01-01,H&M,38
+2023-01-08,H&M,38
+2023-01-15,H&M,35
+2023-01-22,H&M,36
+2023-01-29,H&M,35
+2023-02-05,H&M,33
+2023-02-12,H&M,33
+2023-02-19,H&M,33
+2023-02-26,H&M,33
+2023-03-05,H&M,34
+2023-03-12,H&M,34
+2023-03-19,H&M,37
+2023-03-26,H&M,37
+2023-04-02,H&M,37
+2023-04-09,H&M,39
+2023-04-16,H&M,37
+2023-04-23,H&M,36
+2023-04-30,H&M,36
+2023-05-07,H&M,40
+2023-05-14,H&M,35
+2023-05-21,H&M,36
+2023-05-28,H&M,39
+2023-06-04,H&M,37
+2023-06-11,H&M,39
+2023-06-18,H&M,39
+2023-06-25,H&M,38
+2023-07-02,H&M,37
+2023-07-09,H&M,36
+2023-07-16,H&M,35
+2023-07-23,H&M,34
+2023-07-30,H&M,33
+2023-08-06,H&M,32
+2023-08-13,H&M,33
+2023-08-20,H&M,32
+2023-08-27,H&M,37
+2023-09-03,H&M,34
+2023-09-10,H&M,34
+2023-09-17,H&M,35
+2023-09-24,H&M,36
+2023-10-01,H&M,38
+2023-10-08,H&M,36
+2023-10-15,H&M,37
+2023-10-22,H&M,37
+2023-10-29,H&M,38
+2023-11-05,H&M,42
+2023-11-12,H&M,43
+2023-11-19,H&M,54
+2023-11-26,H&M,49
+2023-12-03,H&M,43
+2023-12-10,H&M,44
+2023-12-17,H&M,41
+2023-12-24,H&M,40
+2023-12-31,H&M,34
+2024-01-07,H&M,32
+2024-01-14,H&M,31
+2024-01-21,H&M,30
+2024-01-28,H&M,31
+2024-02-04,H&M,30
+2024-02-11,H&M,28
+2024-02-18,H&M,30
+2024-02-25,H&M,31
+2024-03-03,H&M,31
+2024-03-10,H&M,31
+2024-03-17,H&M,33
+2024-03-24,H&M,35
+2024-03-31,H&M,35
+2024-04-07,H&M,34
+2024-04-14,H&M,34
+2024-04-21,H&M,33
+2024-04-28,H&M,35
+2024-05-05,H&M,34
+2024-05-12,H&M,36
+2024-05-19,H&M,33
+2024-05-26,H&M,35
+2024-06-02,H&M,35
+2024-06-09,H&M,32
+2024-06-16,H&M,37
+2024-06-23,H&M,38
+2024-06-30,H&M,36
+2024-07-07,H&M,34
+2024-07-14,H&M,33
+2024-07-21,H&M,32
+2024-07-28,H&M,30
+2024-08-04,H&M,30
+2024-08-11,H&M,30
+2024-08-18,H&M,31
+2024-08-25,H&M,32
+2024-09-01,H&M,33
+2024-09-08,H&M,38
+2024-09-15,H&M,38
+2024-09-22,H&M,37
+2024-09-29,H&M,41
+2024-10-06,H&M,37
+2024-10-13,H&M,36
+2024-10-20,H&M,35
+2024-10-27,H&M,35
+2024-11-03,H&M,36
+2024-11-10,H&M,38
+2024-11-17,H&M,41
+2024-11-24,H&M,56
+2024-12-01,H&M,45
+2024-12-08,H&M,39
+2024-12-15,H&M,39
+2024-12-22,H&M,41
+2024-12-29,H&M,36
+2025-01-05,H&M,33
+2025-01-12,H&M,31
+2025-01-19,H&M,29
+2025-01-26,H&M,28
+2025-02-02,H&M,28
+2025-02-09,H&M,27
+2025-02-16,H&M,28
+2025-02-23,H&M,28
+2025-03-02,H&M,30
+2025-03-09,H&M,30
+2025-03-16,H&M,31
+2025-03-23,H&M,31
+2025-03-30,H&M,33
+2025-04-06,H&M,32
+2025-04-13,H&M,31
+2025-04-20,H&M,32
+2025-04-27,H&M,34
+2025-05-04,H&M,31
+2025-05-11,H&M,33
+2025-05-18,H&M,32
+2025-05-25,H&M,33
+2025-06-01,H&M,35
+2025-06-08,H&M,33
+2025-06-15,H&M,37
+2025-06-22,H&M,36
+2025-06-29,H&M,35
+2025-07-06,H&M,34
+2025-07-13,H&M,32
+2025-07-20,H&M,31
+2025-07-27,H&M,32
+2025-08-03,H&M,33
+2025-08-10,H&M,33
+2025-08-17,H&M,35
+2025-08-24,H&M,37
+2025-08-31,H&M,39
+2025-09-07,H&M,35
+2025-09-14,H&M,37
+2025-09-21,H&M,38
+2025-09-28,H&M,39
+2025-10-05,H&M,38
+2025-10-12,H&M,38
+2025-10-19,H&M,39
+2025-10-26,H&M,36
+2025-11-02,H&M,37
+2025-11-09,H&M,41
+2025-11-16,H&M,45
+2025-11-23,H&M,52
+2025-11-30,H&M,43
+2025-12-07,H&M,37
+2025-12-14,H&M,39
+2025-12-21,H&M,40
+2025-12-28,H&M,34
+2026-01-04,H&M,32
+2026-01-11,H&M,29
+2026-01-18,H&M,26
+2026-01-25,H&M,27
+2026-02-01,H&M,27
+2026-02-08,H&M,25
+2026-02-15,H&M,25
+2026-02-22,H&M,27
+2026-03-01,H&M,29
+2026-03-08,H&M,28
+2026-03-15,H&M,31
+2026-03-22,H&M,55
+2026-03-29,H&M,71
+2026-04-05,H&M,88
+2026-04-12,H&M,88
+2026-04-19,H&M,76
+2026-04-26,H&M,81
+2026-05-03,H&M,100
+2026-05-10,H&M,85
+2026-05-17,H&M,50
+2026-05-24,H&M,50
+2026-05-31,H&M,49
+2026-06-07,H&M,35
+2026-06-14,H&M,36
+2026-06-21,H&M,37
+2026-06-28,H&M,34
+2026-07-05,H&M,32
+2026-07-12,H&M,30
+2026-07-19,H&M,29
+2026-07-26,H&M,27
+2026-08-02,H&M,28
+2026-08-09,H&M,28
+2021-08-08,Valentino,26
+2021-08-15,Valentino,31
+2021-08-22,Valentino,24
+2021-08-29,Valentino,24
+2021-09-05,Valentino,21
+2021-09-12,Valentino,22
+2021-09-19,Valentino,21
+2021-09-26,Valentino,20
+2021-10-03,Valentino,22
+2021-10-10,Valentino,20
+2021-10-17,Valentino,22
+2021-10-24,Valentino,27
+2021-10-31,Valentino,21
+2021-11-07,Valentino,28
+2021-11-14,Valentino,52
+2021-11-21,Valentino,28
+2021-11-28,Valentino,26
+2021-12-05,Valentino,26
+2021-12-12,Valentino,27
+2021-12-19,Valentino,28
+2021-12-26,Valentino,27
+2022-01-02,Valentino,24
+2022-01-09,Valentino,23
+2022-01-16,Valentino,23
+2022-01-23,Valentino,28
+2022-01-30,Valentino,35
+2022-02-06,Valentino,47
+2022-02-13,Valentino,62
+2022-02-20,Valentino,22
+2022-02-27,Valentino,25
+2022-03-06,Valentino,24
+2022-03-13,Valentino,23
+2022-03-20,Valentino,25
+2022-03-27,Valentino,23
+2022-04-03,Valentino,24
+2022-04-10,Valentino,24
+2022-04-17,Valentino,25
+2022-04-24,Valentino,25
+2022-05-01,Valentino,26
+2022-05-08,Valentino,25
+2022-05-15,Valentino,21
+2022-05-22,Valentino,21
+2022-05-29,Valentino,22
+2022-06-05,Valentino,21
+2022-06-12,Valentino,22
+2022-06-19,Valentino,21
+2022-06-26,Valentino,22
+2022-07-03,Valentino,23
+2022-07-10,Valentino,23
+2022-07-17,Valentino,21
+2022-07-24,Valentino,23
+2022-07-31,Valentino,22
+2022-08-07,Valentino,21
+2022-08-14,Valentino,21
+2022-08-21,Valentino,21
+2022-08-28,Valentino,20
+2022-09-04,Valentino,20
+2022-09-11,Valentino,19
+2022-09-18,Valentino,19
+2022-09-25,Valentino,18
+2022-10-02,Valentino,20
+2022-10-09,Valentino,21
+2022-10-16,Valentino,18
+2022-10-23,Valentino,20
+2022-10-30,Valentino,21
+2022-11-06,Valentino,22
+2022-11-13,Valentino,21
+2022-11-20,Valentino,23
+2022-11-27,Valentino,23
+2022-12-04,Valentino,23
+2022-12-11,Valentino,24
+2022-12-18,Valentino,25
+2022-12-25,Valentino,27
+2023-01-01,Valentino,24
+2023-01-08,Valentino,23
+2023-01-15,Valentino,26
+2023-01-22,Valentino,27
+2023-01-29,Valentino,32
+2023-02-05,Valentino,38
+2023-02-12,Valentino,83
+2023-02-19,Valentino,21
+2023-02-26,Valentino,20
+2023-03-05,Valentino,20
+2023-03-12,Valentino,19
+2023-03-19,Valentino,20
+2023-03-26,Valentino,21
+2023-04-02,Valentino,21
+2023-04-09,Valentino,21
+2023-04-16,Valentino,23
+2023-04-23,Valentino,24
+2023-04-30,Valentino,22
+2023-05-07,Valentino,20
+2023-05-14,Valentino,21
+2023-05-21,Valentino,20
+2023-05-28,Valentino,23
+2023-06-04,Valentino,21
+2023-06-11,Valentino,21
+2023-06-18,Valentino,21
+2023-06-25,Valentino,22
+2023-07-02,Valentino,23
+2023-07-09,Valentino,22
+2023-07-16,Valentino,22
+2023-07-23,Valentino,23
+2023-07-30,Valentino,22
+2023-08-06,Valentino,21
+2023-08-13,Valentino,22
+2023-08-20,Valentino,21
+2023-08-27,Valentino,22
+2023-09-03,Valentino,22
+2023-09-10,Valentino,20
+2023-09-17,Valentino,21
+2023-09-24,Valentino,21
+2023-10-01,Valentino,21
+2023-10-08,Valentino,21
+2023-10-15,Valentino,20
+2023-10-22,Valentino,20
+2023-10-29,Valentino,19
+2023-11-05,Valentino,22
+2023-11-12,Valentino,24
+2023-11-19,Valentino,27
+2023-11-26,Valentino,28
+2023-12-03,Valentino,27
+2023-12-10,Valentino,28
+2023-12-17,Valentino,30
+2023-12-24,Valentino,33
+2023-12-31,Valentino,26
+2024-01-07,Valentino,24
+2024-01-14,Valentino,27
+2024-01-21,Valentino,30
+2024-01-28,Valentino,34
+2024-02-04,Valentino,42
+2024-02-11,Valentino,69
+2024-02-18,Valentino,29
+2024-02-25,Valentino,26
+2024-03-03,Valentino,26
+2024-03-10,Valentino,25
+2024-03-17,Valentino,27
+2024-03-24,Valentino,29
+2024-03-31,Valentino,26
+2024-04-07,Valentino,28
+2024-04-14,Valentino,26
+2024-04-21,Valentino,27
+2024-04-28,Valentino,28
+2024-05-05,Valentino,26
+2024-05-12,Valentino,26
+2024-05-19,Valentino,26
+2024-05-26,Valentino,26
+2024-06-02,Valentino,25
+2024-06-09,Valentino,27
+2024-06-16,Valentino,28
+2024-06-23,Valentino,25
+2024-06-30,Valentino,26
+2024-07-07,Valentino,26
+2024-07-14,Valentino,25
+2024-07-21,Valentino,24
+2024-07-28,Valentino,25
+2024-08-04,Valentino,24
+2024-08-11,Valentino,26
+2024-08-18,Valentino,26
+2024-08-25,Valentino,26
+2024-09-01,Valentino,26
+2024-09-08,Valentino,27
+2024-09-15,Valentino,26
+2024-09-22,Valentino,25
+2024-09-29,Valentino,28
+2024-10-06,Valentino,24
+2024-10-13,Valentino,25
+2024-10-20,Valentino,26
+2024-10-27,Valentino,26
+2024-11-03,Valentino,26
+2024-11-10,Valentino,29
+2024-11-17,Valentino,31
+2024-11-24,Valentino,36
+2024-12-01,Valentino,33
+2024-12-08,Valentino,34
+2024-12-15,Valentino,33
+2024-12-22,Valentino,42
+2024-12-29,Valentino,31
+2025-01-05,Valentino,31
+2025-01-12,Valentino,28
+2025-01-19,Valentino,30
+2025-01-26,Valentino,35
+2025-02-02,Valentino,40
+2025-02-09,Valentino,87
+2025-02-16,Valentino,28
+2025-02-23,Valentino,25
+2025-03-02,Valentino,27
+2025-03-09,Valentino,26
+2025-03-16,Valentino,27
+2025-03-23,Valentino,26
+2025-03-30,Valentino,28
+2025-04-06,Valentino,25
+2025-04-13,Valentino,28
+2025-04-20,Valentino,28
+2025-04-27,Valentino,27
+2025-05-04,Valentino,28
+2025-05-11,Valentino,27
+2025-05-18,Valentino,26
+2025-05-25,Valentino,28
+2025-06-01,Valentino,27
+2025-06-08,Valentino,31
+2025-06-15,Valentino,28
+2025-06-22,Valentino,27
+2025-06-29,Valentino,28
+2025-07-06,Valentino,27
+2025-07-13,Valentino,28
+2025-07-20,Valentino,28
+2025-07-27,Valentino,28
+2025-08-03,Valentino,30
+2025-08-10,Valentino,29
+2025-08-17,Valentino,29
+2025-08-24,Valentino,31
+2025-08-31,Valentino,33
+2025-09-07,Valentino,30
+2025-09-14,Valentino,28
+2025-09-21,Valentino,27
+2025-09-28,Valentino,30
+2025-10-05,Valentino,29
+2025-10-12,Valentino,27
+2025-10-19,Valentino,27
+2025-10-26,Valentino,26
+2025-11-02,Valentino,28
+2025-11-09,Valentino,33
+2025-11-16,Valentino,36
+2025-11-23,Valentino,39
+2025-11-30,Valentino,37
+2025-12-07,Valentino,36
+2025-12-14,Valentino,39
+2025-12-21,Valentino,44
+2025-12-28,Valentino,33
+2026-01-04,Valentino,31
+2026-01-11,Valentino,30
+2026-01-18,Valentino,100
+2026-01-25,Valentino,44
+2026-02-01,Valentino,45
+2026-02-08,Valentino,68
+2026-02-15,Valentino,35
+2026-02-22,Valentino,30
+2026-03-01,Valentino,29
+2026-03-08,Valentino,31
+2026-03-15,Valentino,29
+2026-03-22,Valentino,30
+2026-03-29,Valentino,34
+2026-04-05,Valentino,34
+2026-04-12,Valentino,33
+2026-04-19,Valentino,31
+2026-04-26,Valentino,32
+2026-05-03,Valentino,34
+2026-05-10,Valentino,33
+2026-05-17,Valentino,31
+2026-05-24,Valentino,31
+2026-05-31,Valentino,31
+2026-06-07,Valentino,28
+2026-06-14,Valentino,28
+2026-06-21,Valentino,26
+2026-06-28,Valentino,24
+2026-07-05,Valentino,25
+2026-07-12,Valentino,25
+2026-07-19,Valentino,26
+2026-07-26,Valentino,25
+2026-08-02,Valentino,25
+2026-08-09,Valentino,24
+2021-08-08,Christian Dior,75
+2021-08-15,Christian Dior,83
+2021-08-22,Christian Dior,74
+2021-08-29,Christian Dior,70
+2021-09-05,Christian Dior,76
+2021-09-12,Christian Dior,72
+2021-09-19,Christian Dior,70
+2021-09-26,Christian Dior,67
+2021-10-03,Christian Dior,66
+2021-10-10,Christian Dior,64
+2021-10-17,Christian Dior,68
+2021-10-24,Christian Dior,66
+2021-10-31,Christian Dior,66
+2021-11-07,Christian Dior,72
+2021-11-14,Christian Dior,76
+2021-11-21,Christian Dior,72
+2021-11-28,Christian Dior,80
+2021-12-05,Christian Dior,80
+2021-12-12,Christian Dior,84
+2021-12-19,Christian Dior,94
+2021-12-26,Christian Dior,100
+2022-01-02,Christian Dior,90
+2022-01-09,Christian Dior,79
+2022-01-16,Christian Dior,72
+2022-01-23,Christian Dior,77
+2022-01-30,Christian Dior,79
+2022-02-06,Christian Dior,81
+2022-02-13,Christian Dior,77
+2022-02-20,Christian Dior,78
+2022-02-27,Christian Dior,75
+2022-03-06,Christian Dior,76
+2022-03-13,Christian Dior,76
+2022-03-20,Christian Dior,75
+2022-03-27,Christian Dior,72
+2022-04-03,Christian Dior,70
+2022-04-10,Christian Dior,73
+2022-04-17,Christian Dior,74
+2022-04-24,Christian Dior,81
+2022-05-01,Christian Dior,81
+2022-05-08,Christian Dior,79
+2022-05-15,Christian Dior,77
+2022-05-22,Christian Dior,88
+2022-05-29,Christian Dior,79
+2022-06-05,Christian Dior,89
+2022-06-12,Christian Dior,86
+2022-06-19,Christian Dior,85
+2022-06-26,Christian Dior,81
+2022-07-03,Christian Dior,85
+2022-07-10,Christian Dior,85
+2022-07-17,Christian Dior,89
+2022-07-24,Christian Dior,86
+2022-07-31,Christian Dior,85
+2022-08-07,Christian Dior,88
+2022-08-14,Christian Dior,88
+2022-08-21,Christian Dior,82
+2022-08-28,Christian Dior,79
+2022-09-04,Christian Dior,72
+2022-09-11,Christian Dior,73
+2022-09-18,Christian Dior,72
+2022-09-25,Christian Dior,67
+2022-10-02,Christian Dior,70
+2022-10-09,Christian Dior,72
+2022-10-16,Christian Dior,66
+2022-10-23,Christian Dior,65
+2022-10-30,Christian Dior,68
+2022-11-06,Christian Dior,73
+2022-11-13,Christian Dior,71
+2022-11-20,Christian Dior,69
+2022-11-27,Christian Dior,72
+2022-12-04,Christian Dior,70
+2022-12-11,Christian Dior,73
+2022-12-18,Christian Dior,82
+2022-12-25,Christian Dior,89
+2023-01-01,Christian Dior,80
+2023-01-08,Christian Dior,67
+2023-01-15,Christian Dior,70
+2023-01-22,Christian Dior,67
+2023-01-29,Christian Dior,65
+2023-02-05,Christian Dior,63
+2023-02-12,Christian Dior,64
+2023-02-19,Christian Dior,63
+2023-02-26,Christian Dior,63
+2023-03-05,Christian Dior,63
+2023-03-12,Christian Dior,62
+2023-03-19,Christian Dior,63
+2023-03-26,Christian Dior,66
+2023-04-02,Christian Dior,67
+2023-04-09,Christian Dior,66
+2023-04-16,Christian Dior,63
+2023-04-23,Christian Dior,62
+2023-04-30,Christian Dior,68
+2023-05-07,Christian Dior,66
+2023-05-14,Christian Dior,67
+2023-05-21,Christian Dior,69
+2023-05-28,Christian Dior,74
+2023-06-04,Christian Dior,75
+2023-06-11,Christian Dior,75
+2023-06-18,Christian Dior,74
+2023-06-25,Christian Dior,70
+2023-07-02,Christian Dior,78
+2023-07-09,Christian Dior,74
+2023-07-16,Christian Dior,74
+2023-07-23,Christian Dior,71
+2023-07-30,Christian Dior,69
+2023-08-06,Christian Dior,74
+2023-08-13,Christian Dior,69
+2023-08-20,Christian Dior,67
+2023-08-27,Christian Dior,68
+2023-09-03,Christian Dior,65
+2023-09-10,Christian Dior,62
+2023-09-17,Christian Dior,60
+2023-09-24,Christian Dior,64
+2023-10-01,Christian Dior,62
+2023-10-08,Christian Dior,59
+2023-10-15,Christian Dior,59
+2023-10-22,Christian Dior,57
+2023-10-29,Christian Dior,59
+2023-11-05,Christian Dior,69
+2023-11-12,Christian Dior,68
+2023-11-19,Christian Dior,73
+2023-11-26,Christian Dior,70
+2023-12-03,Christian Dior,73
+2023-12-10,Christian Dior,85
+2023-12-17,Christian Dior,83
+2023-12-24,Christian Dior,94
+2023-12-31,Christian Dior,74
+2024-01-07,Christian Dior,66
+2024-01-14,Christian Dior,66
+2024-01-21,Christian Dior,65
+2024-01-28,Christian Dior,68
+2024-02-04,Christian Dior,69
+2024-02-11,Christian Dior,85
+2024-02-18,Christian Dior,89
+2024-02-25,Christian Dior,83
+2024-03-03,Christian Dior,79
+2024-03-10,Christian Dior,68
+2024-03-17,Christian Dior,76
+2024-03-24,Christian Dior,80
+2024-03-31,Christian Dior,79
+2024-04-07,Christian Dior,79
+2024-04-14,Christian Dior,72
+2024-04-21,Christian Dior,75
+2024-04-28,Christian Dior,76
+2024-05-05,Christian Dior,70
+2024-05-12,Christian Dior,67
+2024-05-19,Christian Dior,66
+2024-05-26,Christian Dior,68
+2024-06-02,Christian Dior,76
+2024-06-09,Christian Dior,69
+2024-06-16,Christian Dior,72
+2024-06-23,Christian Dior,67
+2024-06-30,Christian Dior,66
+2024-07-07,Christian Dior,68
+2024-07-14,Christian Dior,68
+2024-07-21,Christian Dior,72
+2024-07-28,Christian Dior,63
+2024-08-04,Christian Dior,65
+2024-08-11,Christian Dior,68
+2024-08-18,Christian Dior,65
+2024-08-25,Christian Dior,63
+2024-09-01,Christian Dior,64
+2024-09-08,Christian Dior,60
+2024-09-15,Christian Dior,69
+2024-09-22,Christian Dior,61
+2024-09-29,Christian Dior,56
+2024-10-06,Christian Dior,56
+2024-10-13,Christian Dior,57
+2024-10-20,Christian Dior,59
+2024-10-27,Christian Dior,61
+2024-11-03,Christian Dior,59
+2024-11-10,Christian Dior,59
+2024-11-17,Christian Dior,67
+2024-11-24,Christian Dior,67
+2024-12-01,Christian Dior,66
+2024-12-08,Christian Dior,68
+2024-12-15,Christian Dior,69
+2024-12-22,Christian Dior,89
+2024-12-29,Christian Dior,70
+2025-01-05,Christian Dior,59
+2025-01-12,Christian Dior,53
+2025-01-19,Christian Dior,56
+2025-01-26,Christian Dior,56
+2025-02-02,Christian Dior,52
+2025-02-09,Christian Dior,56
+2025-02-16,Christian Dior,57
+2025-02-23,Christian Dior,49
+2025-03-02,Christian Dior,51
+2025-03-09,Christian Dior,53
+2025-03-16,Christian Dior,59
+2025-03-23,Christian Dior,56
+2025-03-30,Christian Dior,57
+2025-04-06,Christian Dior,54
+2025-04-13,Christian Dior,58
+2025-04-20,Christian Dior,56
+2025-04-27,Christian Dior,58
+2025-05-04,Christian Dior,57
+2025-05-11,Christian Dior,58
+2025-05-18,Christian Dior,55
+2025-05-25,Christian Dior,54
+2025-06-01,Christian Dior,56
+2025-06-08,Christian Dior,59
+2025-06-15,Christian Dior,54
+2025-06-22,Christian Dior,55
+2025-06-29,Christian Dior,52
+2025-07-06,Christian Dior,56
+2025-07-13,Christian Dior,57
+2025-07-20,Christian Dior,58
+2025-07-27,Christian Dior,55
+2025-08-03,Christian Dior,62
+2025-08-10,Christian Dior,62
+2025-08-17,Christian Dior,60
+2025-08-24,Christian Dior,64
+2025-08-31,Christian Dior,65
+2025-09-07,Christian Dior,55
+2025-09-14,Christian Dior,56
+2025-09-21,Christian Dior,53
+2025-09-28,Christian Dior,53
+2025-10-05,Christian Dior,51
+2025-10-12,Christian Dior,46
+2025-10-19,Christian Dior,53
+2025-10-26,Christian Dior,48
+2025-11-02,Christian Dior,52
+2025-11-09,Christian Dior,50
+2025-11-16,Christian Dior,55
+2025-11-23,Christian Dior,57
+2025-11-30,Christian Dior,58
+2025-12-07,Christian Dior,57
+2025-12-14,Christian Dior,61
+2025-12-21,Christian Dior,67
+2025-12-28,Christian Dior,60
+2026-01-04,Christian Dior,49
+2026-01-11,Christian Dior,54
+2026-01-18,Christian Dior,51
+2026-01-25,Christian Dior,54
+2026-02-01,Christian Dior,55
+2026-02-08,Christian Dior,70
+2026-02-15,Christian Dior,68
+2026-02-22,Christian Dior,61
+2026-03-01,Christian Dior,57
+2026-03-08,Christian Dior,52
+2026-03-15,Christian Dior,49
+2026-03-22,Christian Dior,56
+2026-03-29,Christian Dior,73
+2026-04-05,Christian Dior,78
+2026-04-12,Christian Dior,82
+2026-04-19,Christian Dior,69
+2026-04-26,Christian Dior,77
+2026-05-03,Christian Dior,80
+2026-05-10,Christian Dior,79
+2026-05-17,Christian Dior,64
+2026-05-24,Christian Dior,63
+2026-05-31,Christian Dior,71
+2026-06-07,Christian Dior,70
+2026-06-14,Christian Dior,64
+2026-06-21,Christian Dior,59
+2026-06-28,Christian Dior,55
+2026-07-05,Christian Dior,60
+2026-07-12,Christian Dior,48
+2026-07-19,Christian Dior,47
+2026-07-26,Christian Dior,49
+2026-08-02,Christian Dior,48
+2026-08-09,Christian Dior,47
+2021-08-08,Louis Vuitton,23
+2021-08-15,Louis Vuitton,21
+2021-08-22,Louis Vuitton,23
+2021-08-29,Louis Vuitton,21
+2021-09-05,Louis Vuitton,22
+2021-09-12,Louis Vuitton,23
+2021-09-19,Louis Vuitton,23
+2021-09-26,Louis Vuitton,23
+2021-10-03,Louis Vuitton,24
+2021-10-10,Louis Vuitton,24
+2021-10-17,Louis Vuitton,23
+2021-10-24,Louis Vuitton,22
+2021-10-31,Louis Vuitton,23
+2021-11-07,Louis Vuitton,24
+2021-11-14,Louis Vuitton,24
+2021-11-21,Louis Vuitton,28
+2021-11-28,Louis Vuitton,33
+2021-12-05,Louis Vuitton,29
+2021-12-12,Louis Vuitton,30
+2021-12-19,Louis Vuitton,32
+2021-12-26,Louis Vuitton,31
+2022-01-02,Louis Vuitton,26
+2022-01-09,Louis Vuitton,24
+2022-01-16,Louis Vuitton,22
+2022-01-23,Louis Vuitton,23
+2022-01-30,Louis Vuitton,23
+2022-02-06,Louis Vuitton,23
+2022-02-13,Louis Vuitton,24
+2022-02-20,Louis Vuitton,22
+2022-02-27,Louis Vuitton,21
+2022-03-06,Louis Vuitton,21
+2022-03-13,Louis Vuitton,21
+2022-03-20,Louis Vuitton,21
+2022-03-27,Louis Vuitton,21
+2022-04-03,Louis Vuitton,20
+2022-04-10,Louis Vuitton,21
+2022-04-17,Louis Vuitton,21
+2022-04-24,Louis Vuitton,22
+2022-05-01,Louis Vuitton,23
+2022-05-08,Louis Vuitton,20
+2022-05-15,Louis Vuitton,21
+2022-05-22,Louis Vuitton,21
+2022-05-29,Louis Vuitton,20
+2022-06-05,Louis Vuitton,20
+2022-06-12,Louis Vuitton,20
+2022-06-19,Louis Vuitton,21
+2022-06-26,Louis Vuitton,20
+2022-07-03,Louis Vuitton,20
+2022-07-10,Louis Vuitton,22
+2022-07-17,Louis Vuitton,26
+2022-07-24,Louis Vuitton,21
+2022-07-31,Louis Vuitton,21
+2022-08-07,Louis Vuitton,21
+2022-08-14,Louis Vuitton,24
+2022-08-21,Louis Vuitton,21
+2022-08-28,Louis Vuitton,21
+2022-09-04,Louis Vuitton,19
+2022-09-11,Louis Vuitton,20
+2022-09-18,Louis Vuitton,19
+2022-09-25,Louis Vuitton,19
+2022-10-02,Louis Vuitton,20
+2022-10-09,Louis Vuitton,19
+2022-10-16,Louis Vuitton,19
+2022-10-23,Louis Vuitton,19
+2022-10-30,Louis Vuitton,19
+2022-11-06,Louis Vuitton,20
+2022-11-13,Louis Vuitton,21
+2022-11-20,Louis Vuitton,23
+2022-11-27,Louis Vuitton,23
+2022-12-04,Louis Vuitton,24
+2022-12-11,Louis Vuitton,26
+2022-12-18,Louis Vuitton,26
+2022-12-25,Louis Vuitton,30
+2023-01-01,Louis Vuitton,23
+2023-01-08,Louis Vuitton,23
+2023-01-15,Louis Vuitton,23
+2023-01-22,Louis Vuitton,22
+2023-01-29,Louis Vuitton,21
+2023-02-05,Louis Vuitton,20
+2023-02-12,Louis Vuitton,20
+2023-02-19,Louis Vuitton,20
+2023-02-26,Louis Vuitton,19
+2023-03-05,Louis Vuitton,19
+2023-03-12,Louis Vuitton,19
+2023-03-19,Louis Vuitton,19
+2023-03-26,Louis Vuitton,18
+2023-04-02,Louis Vuitton,20
+2023-04-09,Louis Vuitton,21
+2023-04-16,Louis Vuitton,19
+2023-04-23,Louis Vuitton,19
+2023-04-30,Louis Vuitton,20
+2023-05-07,Louis Vuitton,19
+2023-05-14,Louis Vuitton,19
+2023-05-21,Louis Vuitton,19
+2023-05-28,Louis Vuitton,19
+2023-06-04,Louis Vuitton,18
+2023-06-11,Louis Vuitton,20
+2023-06-18,Louis Vuitton,22
+2023-06-25,Louis Vuitton,21
+2023-07-02,Louis Vuitton,20
+2023-07-09,Louis Vuitton,19
+2023-07-16,Louis Vuitton,19
+2023-07-23,Louis Vuitton,19
+2023-07-30,Louis Vuitton,21
+2023-08-06,Louis Vuitton,20
+2023-08-13,Louis Vuitton,19
+2023-08-20,Louis Vuitton,19
+2023-08-27,Louis Vuitton,19
+2023-09-03,Louis Vuitton,18
+2023-09-10,Louis Vuitton,17
+2023-09-17,Louis Vuitton,18
+2023-09-24,Louis Vuitton,18
+2023-10-01,Louis Vuitton,18
+2023-10-08,Louis Vuitton,18
+2023-10-15,Louis Vuitton,18
+2023-10-22,Louis Vuitton,18
+2023-10-29,Louis Vuitton,17
+2023-11-05,Louis Vuitton,19
+2023-11-12,Louis Vuitton,19
+2023-11-19,Louis Vuitton,22
+2023-11-26,Louis Vuitton,21
+2023-12-03,Louis Vuitton,21
+2023-12-10,Louis Vuitton,22
+2023-12-17,Louis Vuitton,24
+2023-12-24,Louis Vuitton,28
+2023-12-31,Louis Vuitton,22
+2024-01-07,Louis Vuitton,20
+2024-01-14,Louis Vuitton,20
+2024-01-21,Louis Vuitton,19
+2024-01-28,Louis Vuitton,19
+2024-02-04,Louis Vuitton,19
+2024-02-11,Louis Vuitton,19
+2024-02-18,Louis Vuitton,19
+2024-02-25,Louis Vuitton,19
+2024-03-03,Louis Vuitton,19
+2024-03-10,Louis Vuitton,18
+2024-03-17,Louis Vuitton,19
+2024-03-24,Louis Vuitton,20
+2024-03-31,Louis Vuitton,18
+2024-04-07,Louis Vuitton,18
+2024-04-14,Louis Vuitton,19
+2024-04-21,Louis Vuitton,19
+2024-04-28,Louis Vuitton,19
+2024-05-05,Louis Vuitton,19
+2024-05-12,Louis Vuitton,20
+2024-05-19,Louis Vuitton,19
+2024-05-26,Louis Vuitton,19
+2024-06-02,Louis Vuitton,19
+2024-06-09,Louis Vuitton,19
+2024-06-16,Louis Vuitton,21
+2024-06-23,Louis Vuitton,19
+2024-06-30,Louis Vuitton,18
+2024-07-07,Louis Vuitton,19
+2024-07-14,Louis Vuitton,19
+2024-07-21,Louis Vuitton,21
+2024-07-28,Louis Vuitton,18
+2024-08-04,Louis Vuitton,19
+2024-08-11,Louis Vuitton,20
+2024-08-18,Louis Vuitton,19
+2024-08-25,Louis Vuitton,20
+2024-09-01,Louis Vuitton,19
+2024-09-08,Louis Vuitton,20
+2024-09-15,Louis Vuitton,19
+2024-09-22,Louis Vuitton,19
+2024-09-29,Louis Vuitton,21
+2024-10-06,Louis Vuitton,19
+2024-10-13,Louis Vuitton,20
+2024-10-20,Louis Vuitton,19
+2024-10-27,Louis Vuitton,18
+2024-11-03,Louis Vuitton,19
+2024-11-10,Louis Vuitton,22
+2024-11-17,Louis Vuitton,21
+2024-11-24,Louis Vuitton,23
+2024-12-01,Louis Vuitton,24
+2024-12-08,Louis Vuitton,25
+2024-12-15,Louis Vuitton,25
+2024-12-22,Louis Vuitton,33
+2024-12-29,Louis Vuitton,30
+2025-01-05,Louis Vuitton,26
+2025-01-12,Louis Vuitton,22
+2025-01-19,Louis Vuitton,21
+2025-01-26,Louis Vuitton,21
+2025-02-02,Louis Vuitton,20
+2025-02-09,Louis Vuitton,20
+2025-02-16,Louis Vuitton,19
+2025-02-23,Louis Vuitton,19
+2025-03-02,Louis Vuitton,19
+2025-03-09,Louis Vuitton,20
+2025-03-16,Louis Vuitton,21
+2025-03-23,Louis Vuitton,20
+2025-03-30,Louis Vuitton,20
+2025-04-06,Louis Vuitton,21
+2025-04-13,Louis Vuitton,23
+2025-04-20,Louis Vuitton,23
+2025-04-27,Louis Vuitton,20
+2025-05-04,Louis Vuitton,20
+2025-05-11,Louis Vuitton,19
+2025-05-18,Louis Vuitton,21
+2025-05-25,Louis Vuitton,21
+2025-06-01,Louis Vuitton,21
+2025-06-08,Louis Vuitton,20
+2025-06-15,Louis Vuitton,19
+2025-06-22,Louis Vuitton,19
+2025-06-29,Louis Vuitton,18
+2025-07-06,Louis Vuitton,19
+2025-07-13,Louis Vuitton,20
+2025-07-20,Louis Vuitton,19
+2025-07-27,Louis Vuitton,21
+2025-08-03,Louis Vuitton,22
+2025-08-10,Louis Vuitton,23
+2025-08-17,Louis Vuitton,22
+2025-08-24,Louis Vuitton,22
+2025-08-31,Louis Vuitton,21
+2025-09-07,Louis Vuitton,21
+2025-09-14,Louis Vuitton,19
+2025-09-21,Louis Vuitton,19
+2025-09-28,Louis Vuitton,20
+2025-10-05,Louis Vuitton,19
+2025-10-12,Louis Vuitton,19
+2025-10-19,Louis Vuitton,20
+2025-10-26,Louis Vuitton,19
+2025-11-02,Louis Vuitton,19
+2025-11-09,Louis Vuitton,21
+2025-11-16,Louis Vuitton,22
+2025-11-23,Louis Vuitton,23
+2025-11-30,Louis Vuitton,23
+2025-12-07,Louis Vuitton,23
+2025-12-14,Louis Vuitton,24
+2025-12-21,Louis Vuitton,29
+2025-12-28,Louis Vuitton,25
+2026-01-04,Louis Vuitton,21
+2026-01-11,Louis Vuitton,20
+2026-01-18,Louis Vuitton,20
+2026-01-25,Louis Vuitton,19
+2026-02-01,Louis Vuitton,20
+2026-02-08,Louis Vuitton,21
+2026-02-15,Louis Vuitton,20
+2026-02-22,Louis Vuitton,20
+2026-03-01,Louis Vuitton,20
+2026-03-08,Louis Vuitton,20
+2026-03-15,Louis Vuitton,21
+2026-03-22,Louis Vuitton,47
+2026-03-29,Louis Vuitton,62
+2026-04-05,Louis Vuitton,72
+2026-04-12,Louis Vuitton,76
+2026-04-19,Louis Vuitton,75
+2026-04-26,Louis Vuitton,74
+2026-05-03,Louis Vuitton,100
+2026-05-10,Louis Vuitton,80
+2026-05-17,Louis Vuitton,41
+2026-05-24,Louis Vuitton,38
+2026-05-31,Louis Vuitton,38
+2026-06-07,Louis Vuitton,25
+2026-06-14,Louis Vuitton,24
+2026-06-21,Louis Vuitton,23
+2026-06-28,Louis Vuitton,18
+2026-07-05,Louis Vuitton,19
+2026-07-12,Louis Vuitton,18
+2026-07-19,Louis Vuitton,19
+2026-07-26,Louis Vuitton,19
+2026-08-02,Louis Vuitton,19
+2026-08-09,Louis Vuitton,18
